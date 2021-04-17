@@ -14,7 +14,7 @@ alt="click here for more informationes" width="200" height="200" border="10" /><
 ## Cool Logos
 
 <a href="https://github.com/L30ZMine/L30ZMine/blob/main/MOREINFO.md
-" target="_blank"><img src="https://github.com/L30ZMine/Concepts/blob/main/cool%20logo%20designs/litrally%20just%20a%20test%20picture%20(but%20also%20a%20nice%20logo).png?raw=true" 
+" target="_blank"><img src="https://github.com/L30ZMine/Concepts/blob/main/cool%20logo%20designs/Benutzerdefiniert%20%E2%80%93%202.png?raw=true" 
 alt="click here for more informationes" width="200" height="200" border="10" /></a>
 
 <a href="https://github.com/L30ZMine/L30ZMine/blob/main/MOREINFO.md
