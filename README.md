@@ -9,4 +9,4 @@ i make all of a kind concepts (theyre only concepts tho) so i dont think they de
 
 <a href="https://github.com/L30ZMine/L30ZMine/blob/main/MOREINFO.md
 " target="_blank"><img src="https://github.com/L30ZMine/Concepts/blob/main/bitcoin/Unbenannt%20%E2%80%94%2019.%20Februar%2C%2008.44.20.png" 
-alt="click here for more informationes" width="100" height="100" border="10" /></a>
+alt="click here for more informationes" width="200" height="200" border="10" /></a>
