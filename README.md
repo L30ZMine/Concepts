@@ -51,14 +51,29 @@ bc the old ones sucks ass
 " target="_blank"><img src="https://github.com/L30ZMine/Concepts/blob/main/itunes/mini_player.png" 
 alt="click here for more informationes" width="480" height="270" border="10" /></a>
 
-# my own art gallery
+## my own art gallery
 i made alot of art in blender and wanted to share it
 
 <a href="https://github.com/L30ZMine/
 " target="_blank"><img src="https://github.com/L30ZMine/Concepts/blob/main/my%20art%20gallery%20website/Web%201920%20%E2%80%93%201.png" 
 alt="click here for more informationes" width="480" height="857" border="10" /></a>
 
-# pog pogram? 
+## pog pogram? 
 i never was sure what this program was /crpyot/music/bootloader??/anything?
 
 ![alt text](https://github.com/L30ZMine/Concepts/blob/main/pog%20program/pog.png)
+
+# UNFINISHED
+
+## minecraft schematics website
+me and my friends were playing mc and thought of a website that sells schematics
+
+<a href="https://github.com/L30ZMine/
+" target="_blank"><img src="https://github.com/L30ZMine/Concepts/blob/main/unfinished/minecraft%20schematics%20website/Web%201920%20%E2%80%93%201.png" 
+alt="click here for more informationes" width="480" height="270" border="10" /></a>
+
+## soundcloud
+i use soundcloud alot and was bored of the design
+
+![alt text](https://github.com/L30ZMine/Concepts/blob/main/unfinished/soundcloud%20redone/soundcloud%20redone.png?raw=true)
+
