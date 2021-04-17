@@ -32,14 +32,20 @@ i wanted to have cool widgets (with rainmeter)
 alt="click here for more informationes" width="480" height="270" border="10" /></a>
 
 # Itunes MiniPlayer&NormalProgram
+bc i was bored and wanted a nicer one
 
 <a href="https://github.com/L30ZMine/
 " target="_blank"><img src="https://github.com/L30ZMine/Concepts/blob/main/itunes/Itunes_Windows_Update.png" 
 alt="click here for more informationes" width="480" height="270" border="10" /></a>
 
+### old one
+
 <a href="https://github.com/L30ZMine/
 " target="_blank"><img src="https://github.com/L30ZMine/Concepts/blob/main/itunes/Itunes_Windows_no_Update.png" 
 alt="click here for more informationes" width="480" height="270" border="10" /></a>
+
+## miniplayer
+bc the old ones sucks ass
 
 <a href="https://github.com/L30ZMine/
 " target="_blank"><img src="https://github.com/L30ZMine/Concepts/blob/main/itunes/mini_player.png" 
