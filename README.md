@@ -7,5 +7,5 @@ i make all of a kind concepts (theyre only concepts tho) so i dont think they de
 
 ## Bitcoin Desktop Widgets
 <span style="font-size: 0.75em">
-    <img alt="Some Text" src="http://www.someimage.com/img/010.jpg">
+    <img alt="Some Text" src="https://github.com/L30ZMine/Concepts/blob/main/bitcoin/Unbenannt%20%E2%80%94%2019.%20Februar%2C%2008.44.20.png">
 </span>
