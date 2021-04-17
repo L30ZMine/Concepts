@@ -8,12 +8,14 @@ i allways wanted to make a program which greets you when you start it and i thou
 
 ## Bitcoin Desktop Widgets
 i was playing around in rainmeter and thought this would be cool
+
 <a href="https://github.com/L30ZMine/L30ZMine/blob/main/MOREINFO.md
 " target="_blank"><img src="https://github.com/L30ZMine/Concepts/blob/main/bitcoin/Unbenannt%20%E2%80%94%2019.%20Februar%2C%2008.44.20.png" 
 alt="click here for more informationes" width="200" height="200" border="10" /></a>
 
 ## Cool Logos
 just me playin around in adobe xd
+
 <a href="https://github.com/L30ZMine/L30ZMine/blob/main/MOREINFO.md
 " target="_blank"><img src="https://github.com/L30ZMine/Concepts/blob/main/cool%20logo%20designs/Benutzerdefiniert%20%E2%80%93%202.png?raw=true" 
 alt="click here for more informationes" width="200" height="200" border="10" /></a>
@@ -24,6 +26,7 @@ alt="click here for more informationes" width="200" height="200" border="10" /><
 
 ## Discord Widgets 
 i wanted to have cool widgets (with rainmeter)
+
 <a href="https://github.com/L30ZMine/L30ZMine/blob/main/MOREINFO.md
 " target="_blank"><img src="https://github.com/L30ZMine/Concepts/blob/main/discord%20widget/Web%201920%20%E2%80%93%201.png?raw=true" 
 alt="click here for more informationes" width="480" height="270" border="10" /></a>
