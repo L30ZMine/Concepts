@@ -53,9 +53,6 @@ alt="click here for more informationes" width="480" height="270" border="10" /><
 
 # my own art gallery
 
-https://github.com/L30ZMine/Concepts/blob/main/my%20art%20gallery%20website/Web%201920%20%E2%80%93%201.png
-480x857
-
 <a href="https://github.com/L30ZMine/
-" target="_blank"><img src="https://github.com/L30ZMine/Concepts/blob/main/itunes/mini_player.png" 
+" target="_blank"><img src="https://github.com/L30ZMine/Concepts/blob/main/my%20art%20gallery%20website/Web%201920%20%E2%80%93%201.png" 
 alt="click here for more informationes" width="480" height="857" border="10" /></a>
